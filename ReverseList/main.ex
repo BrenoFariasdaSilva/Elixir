@@ -1,12 +1,12 @@
 defmodule ListUtils do
-  def reverse_list(list) do
-    reverse_list(list, [])
+  def reverseList(list) do
+    reverseList(list, [])
   end
 
-  defp reverse_list([], reversed), do: reversed
-  defp reverse_list([head | tail], reversed) do
-    reverse_list(tail, [head | reversed])
+  defp reverseList([], reversed), do: reversed
+  defp reverseList([head | tail], reversed) do
+    reverseList(tail, [head | reversed])
   end
 end
 
-IO.inspect ListUtils.reverse_list([1, 2, 3, 4, 5])
+IO.inspect ListUtils.reverseList([1, 2, 3, 4, 5])
