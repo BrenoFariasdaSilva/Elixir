@@ -21,7 +21,8 @@ Feel free to contribute and send suggestions.
 ## Run Elixir code:
 ```bash
 elixir ./{ProgramName}.ex
-# Example: elixir ./main.ex
+# Example: elixir HelloWorld/main.ex
+```
 ```
 
 ## Text Editor - Visual Studio Code:
