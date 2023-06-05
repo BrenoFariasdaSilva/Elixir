@@ -1,2 +1,43 @@
-# Elixir
-My Elixir Codes
+# Elixir <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg"  width="3%" height="3%">
+This repo is made with the objective of showing the Elixir related codes i have written. \
+Feel free to contribute and send suggestions.
+
+## Installation:
+* Elixir Language:
+
+	* Manually:
+		```bash
+		sudo apt-get -y install elixir
+		```
+
+	* Using ShellScript:
+		```bash
+		git clone https://github.com/BrenoFariasdaSilva/Elixir.git
+		cd Elixir
+		chmod +x install.sh
+		sudo ./install.sh
+		```
+
+## Run Elixir code:
+```bash
+elixir ./{ProgramName}.py
+# Example: elixir ./main.py 
+```
+
+## Text Editor - Visual Studio Code:
+```bash
+sudo apt update -y
+sudo apt install software-properties-common apt-transport-https cd ~/Downloads
+wget -y
+cd ~/Downloads
+wget -O- https://packages.microsoft.com/keys/microsoft.asc | sudo gpg --dearmor | sudo tee /usr/share/keyrings/vscode.gpg
+echo deb [arch=amd64 signed-by=/usr/share/keyrings/vscode.gpg] https://packages.microsoft.com/repos/vscode stable main | sudo tee /etc/apt/sources.list.d/vscode.list
+sudo apt update -y
+sudo apt install code -y
+```
+
+## Contributing
+Code improvement recommendations are very welcome, but keep in mind that many exercises will be very simple, with a lot of room for improvement, after all here is all the history of my learning progress.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
