@@ -1,10 +1,13 @@
 defmodule ListUtils do
-    def listSum([]) do
-        0
-    end
-    def listSum([head | tail]) do
-        head * listSum(tail)
-    end
+  def listMultiply(list) do
+    listMultiply(list, 1)
+  end
+
+  defp listMultiply([], result), do: result
+  defp listMultiply([head | tail], result) do
+    listMultiply(tail, result * head)
+  end
 end
 
-IO.puts ListUtils.listSum([1, 2, 3])
+IO.puts ListUtils.listMultiply([0])
+IO.puts ListUtils.listMultiply([1, 2, 3])
