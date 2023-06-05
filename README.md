@@ -20,8 +20,8 @@ Feel free to contribute and send suggestions.
 
 ## Run Elixir code:
 ```bash
-elixir ./{ProgramName}.py
-# Example: elixir ./main.py 
+elixir ./{ProgramName}.ex
+# Example: elixir ./main.ex
 ```
 
 ## Text Editor - Visual Studio Code:
