@@ -1,12 +1,12 @@
 defmodule ListUtils do
-  def listMultiply(list) do
+    def listMultiply(list) do
     listMultiply(list, 1)
-  end
+    end
 
-  defp listMultiply([], result), do: result
-  defp listMultiply([head | tail], result) do
-    listMultiply(tail, result * head)
-  end
+    defp listMultiply([], result), do: result
+    defp listMultiply([head | tail], result) do
+        listMultiply(tail, result * head)
+    end
 end
 
 IO.puts ListUtils.listMultiply([0])
