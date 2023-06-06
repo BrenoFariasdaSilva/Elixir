@@ -23,6 +23,13 @@ Feel free to contribute and send suggestions.
 elixir ./{ProgramName}.ex
 # Example: elixir HelloWorld/main.ex
 ```
+If the code has dependencies, like Floki and HTTPoison, you need to install them first:
+```bash
+mix deps.get
+```
+Which will install all dependencies listed in the `mix.exs` file. Also, if you need to create a new project, you can use:
+```bash
+mix new {ProjectName}
 ```
 
 ## Text Editor - Visual Studio Code:
