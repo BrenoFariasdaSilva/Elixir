@@ -1,4 +1,4 @@
-# Elixir <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg"  width="3%" height="3%">
+# [Elixir](https://github.com/BrenoFariasdaSilva/Elixir) <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg"  width="3%" height="3%">
 This repo is made with the objective of showing the Elixir related codes i have written. \
 Feel free to contribute and send suggestions.
 
