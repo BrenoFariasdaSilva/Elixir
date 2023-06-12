@@ -20,7 +20,7 @@ Feel free to contribute and send suggestions.
 
 ## Run Elixir code:
 ```bash
-elixir ./{ProgramName}.ex
+elixir {ProgramFolder}/main.ex
 # Example: elixir HelloWorld/main.ex
 ```
 If the code has dependencies, like Floki and HTTPoison, you need to install them first:
