@@ -1,7 +1,7 @@
 defmodule ListIntersection do
-  def intersect(list1, list2) do
-    Enum.filter(list1, &Enum.member?(list2, &1))
-  end
+   def intersect(list1, list2) do
+      Enum.filter(list1, &Enum.member?(list2, &1))
+   end
 end
 
 list1 = [1, 2, 3, 4, 5]

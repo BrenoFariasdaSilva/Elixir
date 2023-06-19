@@ -1,6 +1,6 @@
 defmodule ListUtils do
     def listMultiply(list) do
-    listMultiply(list, 1)
+        listMultiply(list, 1)
     end
 
     defp listMultiply([], result), do: result

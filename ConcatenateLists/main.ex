@@ -12,7 +12,6 @@ defmodule ListUtils do
     defp concatenateLists(_, _, result), do: result
 end
 
-
 list1 = [1, 2, 3]
 list2 = [4, 5, 6]
 concatenated_lists = ListUtils.concatenateLists(list1, list2)
