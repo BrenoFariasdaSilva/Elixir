@@ -4,8 +4,16 @@
 
 </div>
 
+<div align="center">
+  
+---
+
 This repo is made with the objective of showing the Elixir related codes i have written. \
 Feel free to contribute and send suggestions.
+  
+---
+
+</div>
 
 <p align="center">
   <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Elixir.svg" alt="wakatime" />
