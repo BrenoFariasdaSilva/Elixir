@@ -7,6 +7,10 @@
 This repo is made with the objective of showing the Elixir related codes i have written. \
 Feel free to contribute and send suggestions.
 
+<p align="center">
+  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Elixir.svg" alt="wakatime" />
+</p>
+
 ## Installation:
 * Elixir Language:
 
