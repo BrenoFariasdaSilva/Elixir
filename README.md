@@ -25,6 +25,16 @@ Feel free to contribute and send suggestions.
 
 </div>
 
+## Table of Contents
+- [Elixir. ](#elixir-)
+	- [Table of Contents](#table-of-contents)
+	- [Installation:](#installation)
+	- [Run Elixir code:](#run-elixir-code)
+	- [Text Editor - Visual Studio Code:](#text-editor---visual-studio-code)
+	- [Contributing](#contributing)
+	- [License](#license)
+
+
 ## Installation:
 * Elixir Language:
 
