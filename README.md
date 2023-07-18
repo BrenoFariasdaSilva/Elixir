@@ -11,6 +11,12 @@ Feel free to contribute and send suggestions.
   <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Elixir.svg" alt="wakatime" />
 </p>
 
+<div align="center">
+  
+![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/723c41838244a8a91d0f32bca980c00741d1162d.svg "Repobeats analytics image")
+
+</div>
+
 ## Installation:
 * Elixir Language:
 
