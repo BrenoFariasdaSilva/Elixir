@@ -5,7 +5,7 @@
 # sudo ./install.sh
 
 # Update Package List:
-sudo apt-get update -y
+sudo apt update -y
 
 # Elxir:
-sudo apt-get -y install elixir
+sudo apt -y install elixir

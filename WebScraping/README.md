@@ -12,9 +12,9 @@ The project was developed using the Elixir language and its main features are:
 
 ## Installation
 In order to install Elixir on your machine, follow the official documentation [here](https://elixir-lang.org/install.html).
-On Unix-based systems with `apt-get` package manager, you can simply run the following command:
+On Unix-based systems with `apt` package manager, you can simply run the following command:
 ```bash
-sudo apt-get install elixir -y
+sudo apt install elixir -y
 ```
 Also, you need to install de project dependencies located in the `mix.exs` file:
 ```elixir

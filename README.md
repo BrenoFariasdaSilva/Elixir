@@ -45,7 +45,7 @@ Feel free to contribute and send suggestions.
 
 	* Manually:
 		```bash
-		sudo apt-get -y install elixir
+		sudo apt -y install elixir
 		```
 
 	* Using ShellScript:
