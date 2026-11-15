@@ -27,7 +27,6 @@ Feel free to contribute and send suggestions.
 [![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir/stargazers)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir)
 [![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir/issues?q=is%3Aissue+is%3Aclosed)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir/pulls)
