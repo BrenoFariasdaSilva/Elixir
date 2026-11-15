@@ -25,10 +25,30 @@ Feel free to contribute and send suggestions.
 </div>
 
 <div align="center">
-  
-![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/723c41838244a8a91d0f32bca980c00741d1162d.svg "Repobeats analytics image")
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Elixir)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Elixir)
+![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Elixir)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Elixir.svg)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Elixir/main)](https://github.com/BrenoFariasdaSilva/Elixir/commits/main)
+[![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir/network/members)
+![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Elixir)
+[![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir/stargazers)
+[![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir/graphs/contributors)
+[![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir)
+[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir)
+[![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir/issues?q=is%3Aissue+is%3Aclosed)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir/pulls)
+[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BrenoFariasdaSilva/Elixir)](https://github.com/BrenoFariasdaSilva/Elixir/pulls?q=is%3Apr+is%3Aclosed)
+[![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Elixir/main)](https://github.com/BrenoFariasdaSilva/Elixir/commits)
+[![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Elixir?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Elixir/pulls?q=is%3Apr+is%3Amerged)
+![GitHub Primary Language](https://img.shields.io/badge/language-Elixir-3b82f6)
+
+![Repobeats Statistics](https://repobeats.axiom.co/api/embed/723c41838244a8a91d0f32bca980c00741d1162d.svg)
 
 </div>
+
 
 ## Table of Contents
 - [Elixir. ](#elixir-)
